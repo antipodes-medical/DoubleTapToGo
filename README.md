@@ -1,7 +1,7 @@
 # Installation
 
 ```bash
-yarn add @antipodes-medical/DoubleTapToGo
+yarn add @antipodes-medical/double-tap-to-go
 ```
 
 ```javascript
