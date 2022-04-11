@@ -5,7 +5,7 @@ yarn add @antipodes-medical/double-tap-to-go
 ```
 
 ```javascript
-import '@antipodes-medical/DoubleTapToGo'
+import '@antipodes-medical/double-tap-to-go'
 ```
 
 # Usage
